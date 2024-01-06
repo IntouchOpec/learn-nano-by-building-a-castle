@@ -27,3 +27,4 @@ ls --color=auto
 nano castle.sh
 nano castle.sh
 echo l
+bash castle.sh
