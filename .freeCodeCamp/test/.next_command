@@ -29,3 +29,5 @@ nano castle.sh
 echo l
 bash castle.sh
 nano castle.sh
+bash castle.sh
+nano castle.sh
